@@ -15,7 +15,7 @@
 <p align="left">
   - 🔭 I’m working as Student
   <br>- 📚 I'm currently learning ...
-  <br>- 🎯 My next milestone: Setting up <a href="https://www.fritnet.be" target="_blank">Fritnet</a>
+  <br>- 🎯 My next milestone: Setting up <a href="https://fritnet.be" target="_blank">Fritnet</a>
   <img src="https://shorturl.at/UMmN9" alt="Fritnet Logo" width="20" height="20" style="vertical-align: middle; margin-left: 5px;"/>
   <br>- 🎲 Fun fact: Big fan of Stranger Things and Lego</p>
 
